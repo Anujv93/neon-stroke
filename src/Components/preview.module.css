@@ -1,0 +1,16 @@
+.neon {
+    transform: translate(-50%,-50%);
+    font-size: 3rem;
+    font-weight: 100;
+    z-index: 3;
+}
+
+.neonter {
+    transform: translate(-50%,-50%);
+    font-size: 3rem;
+    font-weight: 100;
+    position: absolute;
+    left: 12%;
+    filter: blur(15px);
+    z-index: 2;
+}
